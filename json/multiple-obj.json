@@ -1,0 +1,16 @@
+{
+   "jsonObjects":
+   [{
+       "name":"obj-one",
+       "color":"",
+       "version": 1,
+       "attributes": ["attr1", "attr2"]
+    },
+    {
+       "Name":"obj-two",
+       "Color":"",
+       "version": 2,
+       "Val": 9.2,
+       "Attributes": ["attr1", "attr2"]
+   }]
+}

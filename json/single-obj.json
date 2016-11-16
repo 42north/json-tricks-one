@@ -1,0 +1,6 @@
+{
+    "name":"single-obj",
+    "color":"",
+    "version": 1,
+    "attributes": ["attr1", "attr2"]
+}
